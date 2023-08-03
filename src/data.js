@@ -79,4 +79,13 @@ export const albumCollection = [
       rating: 5,
       spotifyId: "641SbNPFJionGJ2cRTPA3X",
    },
+   {
+      title: "Grace Under Pressure",
+      artist: "Rush",
+      year: 1984,
+      coverUrl:
+         "https://upload.wikimedia.org/wikipedia/en/6/66/Rush_Grace_Under_Pressure.jpg",
+      rating: 5,
+      spotifyId: "20RfdO7fta9qlXEWTFSWuT",
+   },
 ]
